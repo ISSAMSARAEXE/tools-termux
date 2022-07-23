@@ -12,11 +12,15 @@ C  = '\33[1;36m'
 GR = '\33[1;37m'
 print(G)
 os.system('figlet      TOOLS ')
-print(R+'''
-	############################
-	# Install all termux tools #
-	# issam exe HACKER         #
-	############################''')
+gg=(v+'''
+
+#############################################
+# issam exe sara exe hacker                 #         
+# telegram : https://t.me/+e70FCHAYGzg0ZDA0 #         
+#############################################
+
+''')
+print(gg)
 print('''''')
 ox_r=input(B+'enter install tools termux [*]')
 print(GR)
